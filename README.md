@@ -18,7 +18,12 @@ Me especializo en el desarrollo de **APIs con .NET**, **frontend con React + Typ
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=MicrosoftSQLServer)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=PostgreSQL)
 
+#### 📊 **Integración & ETL**  
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 
+📌 **Experto en desarrollo de paquetes SSIS** para integración de datos y procesos ETL.  
+📌 Manejo avanzado de **Data Flow, Control Flow, Script Tasks y conexiones OLE DB**.  
+📌 Automatización de flujos de datos entre **SQL Server**. 
 
 ## 🌱 En constante aprendizaje
 Actualmente, me encuentro explorando **arquitecturas escalables**, **microservicios** y **mejoras en rendimiento de bases de datos**.
