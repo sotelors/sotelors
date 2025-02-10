@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Rubén! 
 
 ## 🚀 Sobre mí
-Soy un **desarrollador de software** apasionado por la creación de soluciones tecnológicas eficientes y escalables. Me especializo en el desarrollo de **APIs con .NET**, **frontend con React + TypeScript**, y tengo experiencia en la administración de bases de datos como **SQL Server, MySQL, MongoDB y PostgreSQL**.
+Me especializo en el desarrollo de **APIs con .NET**, **frontend con React + TypeScript**, y tengo experiencia en la administración de bases de datos como **SQL Server, MySQL, MongoDB y PostgreSQL**.
 
 ## 🛠️ Tecnologías y herramientas
 - 🔹 **Backend**: .NET (C#), ASP.NET, Web APIs, Entity Framework  
