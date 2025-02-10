@@ -13,7 +13,7 @@ Me especializo en el desarrollo de **APIs con .NET**, **frontend con React + Typ
 ### 💾 Bases de datos y SQL  
 🔹 **Transact-SQL (T-SQL)** | 🔹 **Procedimientos almacenados** | 🔹 **Índices y tuning**  
 🔹 **Consultas avanzadas (joins, subconsultas)** | 🔹 **Triggers y funciones**  
-🔹 **Administración de SQL Server, MySQL, PostgreSQL, MongoDB**  
+🔹 **Administración de SQL Server 
 
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=MicrosoftSQLServer)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=PostgreSQL)
