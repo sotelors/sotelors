@@ -8,7 +8,7 @@ Me especializo en el desarrollo de **APIs con .NET**, **frontend con React + Typ
 - 🔹 **Frontend**: React, TypeScript, Vite  
 - 🔹 **Bases de Datos**: SQL Server, MySQL, MongoDB, PostgreSQL  
 - 🔹 **Patrones de Diseño**: Repositorio, Unit of Work, CQRS  
-- 🔹 **Otros**: Git, Docker, CI/CD  
+- 🔹 **Otros**: Git, Docker, CI/CD, Python
 
 ## 🌱 En constante aprendizaje
 Actualmente, me encuentro explorando **arquitecturas escalables**, **microservicios** y **mejoras en rendimiento de bases de datos**.
