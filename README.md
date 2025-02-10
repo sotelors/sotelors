@@ -14,8 +14,8 @@ Soy un **desarrollador de software** apasionado por la creación de soluciones t
 Actualmente, me encuentro explorando **arquitecturas escalables**, **microservicios** y **mejoras en rendimiento de bases de datos**.
 
 ## 📫 Contáctame
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
-- 📂 [GitHub](https://github.com/tu-usuario)  
-- 📧 ruben@example.com  
+- 💼 [LinkedIn](www.linkedin.com/in/rubén-alfonso-sotelo-amador-a6136b115)  
+- 📂 [GitHub](https://github.com/sotelors)  
+- 📧 rubenalfonsonic11@gmail.com
 
 ¡Siempre abierto a nuevas oportunidades y colaboración en proyectos interesantes! 🚀
