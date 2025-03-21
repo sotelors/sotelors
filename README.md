@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Rubén! 
+# 👋 ¡Hola, soy Rubén Sotelo! 
 
 ## 🚀 Sobre mí
 Me especializo en el desarrollo de **APIs con .NET**, **frontend con React + TypeScript**, y tengo experiencia en la administración de bases de datos como **SQL Server, MySQL, MongoDB y PostgreSQL**.
