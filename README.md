@@ -51,3 +51,16 @@ public class BackendSkills {
     public List<string> Frameworks => new() { "ASP.NET Core", "Entity Framework" };
     public List<string> Patterns => new() { "Repository", "CQRS", "Unit of Work" };
 }
+
+-- Database Skills
+SELECT skill 
+FROM TechnicalSkills 
+WHERE category IN ('Database', 'ETL')
+  AND proficiency = 'Advanced';
+/* 
+   Results:
+   - SQL Server Administration
+   - Query Optimization
+   - SSIS Package Development
+   - PostgreSQL/MongoDB
+*/
