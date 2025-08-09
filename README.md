@@ -72,4 +72,9 @@ Kubernetes orchestration
 
 Advanced DDD patterns
 
-Cloud solutions (Azure/AWS)
+📫 Get In Touch
+Email: rubenalfonsonic11@gmail.com
+
+LinkedIn: Rubén Sotelo
+
+GitHub: sotelors
