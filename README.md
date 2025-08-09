@@ -29,14 +29,14 @@
 
 ## 💻 Professional Experience
 
-**Full Stack Developer & Support Manager** @ Credit Force  
+**Full Stack Developer & Support Manager**
 *(2019 - Present)*  
 - Developed financial systems using ASP.NET Core and React
 - Managed SQL Server databases (optimization, stored procedures)
 - Led application support team following ITIL practices
 - Implemented ETL solutions with SSIS
 
-**Software Developer** @ Kulki Credit  
+**Software Developer**
 *(2017 - 2019)*  
 - Built web applications with ASP.NET MVC
 - Database administration and query optimization
@@ -64,3 +64,12 @@ WHERE category IN ('Database', 'ETL')
    - SSIS Package Development
    - PostgreSQL/MongoDB
 */
+
+🌱 Currently Learning
+Microservices architecture
+
+Kubernetes orchestration
+
+Advanced DDD patterns
+
+Cloud solutions (Azure/AWS)
