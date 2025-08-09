@@ -1,36 +1,53 @@
-# 👋 ¡Hola, soy Rubén Sotelo! 
+# 👨‍💻 Rubén Sotelo | Full Stack .NET Developer & Database Expert
 
-## 🚀 Sobre mí
-Me especializo en el desarrollo de **APIs con .NET**, **frontend con React + TypeScript**, y tengo experiencia en la administración de bases de datos como **SQL Server, MySQL, MongoDB y PostgreSQL**.
+[![LinkedIn](https://img.shields.io/badge/-CONNECT_ON_LINKEDIN-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rub%C3%A9n-alfonso-sotelo-amador-a6136b115/)
+[![GitHub](https://img.shields.io/badge/-VIEW_MY_GITHUB-black?style=flat&logo=github)](https://github.com/sotelors)
+[![Email](https://img.shields.io/badge/-CONTACT_ME-red?style=flat&logo=gmail)](mailto:rubenalfonsonic11@gmail.com)
 
-## 🛠️ Tecnologías y herramientas
-- 🔹 **Backend**: .NET (C#), ASP.NET, Web APIs, Entity Framework  
-- 🔹 **Frontend**: React, TypeScript, Vite  
-- 🔹 **Bases de Datos**: SQL Server, MySQL, MongoDB, PostgreSQL  
-- 🔹 **Patrones de Diseño**: Repositorio, Unit of Work, CQRS  
-- 🔹 **Otros**: Git, Docker, CI/CD, Python
+## 🛠️ Technical Stack
 
-### 💾 Bases de datos y SQL  
-🔹 **Transact-SQL (T-SQL)** | 🔹 **Procedimientos almacenados** | 🔹 **Índices y tuning**  
-🔹 **Consultas avanzadas (joins, subconsultas)** | 🔹 **Triggers y funciones**  
-🔹 **Administración de SQL Server 
+### Backend
+![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF-5C2D91?logo=.net&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=MicrosoftSQLServer)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=PostgreSQL)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
-#### 📊 **Integración & ETL**  
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-📌 **Experto en desarrollo de paquetes SSIS** para integración de datos y procesos ETL.  
-📌 Manejo avanzado de **Data Flow, Control Flow, Script Tasks y conexiones OLE DB**.  
-📌 Automatización de flujos de datos entre **SQL Server**. 
+### DevOps & Tools
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?logo=microsoft-sql-server&logoColor=white)
 
-## 🌱 En constante aprendizaje
-Actualmente, me encuentro explorando **arquitecturas escalables**, **microservicios** y **mejoras en rendimiento de bases de datos**.
+## 💻 Professional Experience
 
-## 📫 Contacto
-- 💼 [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-alfonso-sotelo-amador-a6136b115/)  
-- 📂 [GitHub](https://github.com/sotelors)  
-- 📧 rubenalfonsonic11@gmail.com
+**Full Stack Developer & Support Manager** @ Credit Force  
+*(2019 - Present)*  
+- Developed financial systems using ASP.NET Core and React
+- Managed SQL Server databases (optimization, stored procedures)
+- Led application support team following ITIL practices
+- Implemented ETL solutions with SSIS
 
-¡Siempre abierto a nuevas oportunidades y colaboración en proyectos interesantes! 🚀
+**Software Developer** @ Kulki Credit  
+*(2017 - 2019)*  
+- Built web applications with ASP.NET MVC
+- Database administration and query optimization
+- Technical support and troubleshooting
+
+## 🏆 Technical Skills
+
+```csharp
+// Backend Expertise
+public class BackendSkills {
+    public List<string> Languages => new() { "C#", "Python" };
+    public List<string> Frameworks => new() { "ASP.NET Core", "Entity Framework" };
+    public List<string> Patterns => new() { "Repository", "CQRS", "Unit of Work" };
+}
